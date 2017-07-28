@@ -1,0 +1,15 @@
+{
+  "name": "save-your-revisions-forever-with-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git-it": "git-it"
+  },
+  "author": "Alberto De Lucca",
+  "license": "MIT",
+  "dependencies": {
+    "git-it": "^1.6.9"
+  }
+}
